@@ -4,7 +4,7 @@ flatbuffers是google员工开发的一套编解码协议，可用作序列化存
 
 ![](Images/1.png)
 
-下载项目中的public工具，是已经编译好的exe工具。工具界面如上图，选择好三个路径后，工具会将第一个路径中的所有fbs文件生成出对应的c#代码。
+下载项目中的publish文件夹下工具FlatBuffersFacility.Desktop.exe，是已经编译好的exe工具。工具界面如上图，选择好三个路径后，工具会将第一个路径中的所有fbs文件生成出对应的c#代码。
 
 例如编写一个fbs文件：
 ```
